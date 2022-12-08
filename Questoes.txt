@@ -1,0 +1,33 @@
+Link: https://night-sound-707.notion.site/Trabalho-av2-168e8ee8040a4f5aa69375a7b3d25f3d
+
+1. (1,25) Considerando os conceitos básicos de Orientação a Objetos, explique o significado dos conceitos abaixo
+
+    1. Encapsulamento
+      Separar o programa em partes, o mais isolado possível. A ideia é
+    tornar o software mais flexível,fácil de modificar e de criar novas
+    implementações.
+    
+    2. Herança
+      A herança é um principio de p.o.o que permite a criação de novas
+    classes a partir de outras previamente criadas.
+    
+    3. Polimorfismo
+      é o princípio pelo qual duas ou mais classes derivadas de uma mesma
+      superclasse podem invocar métodos que têm a mesma identificação mas 
+      comportamentos distintos, especializados para cada classe derivada, 
+      usando para tanto uma referência a um objeto do tipo da superclasse.
+    
+    4. Atributos e Métodos
+     Atributos são as propriedades de um objeto, tambem conhecidas como
+    variáveis.
+      Métodos é o que determina o comportamento de um objeto de uma classe.
+    
+    5. Atributos e Métodos Estáticos
+    
+         Métodos Estáticos são funções que não depende de nenhuma variavel de instancia.
+         Atributos Estáticos são todos iguais para todos os objetos.
+    
+2. (0,75) Diferencia os mecanismos de sobrecarga e sobrescrita, demonstrando cenário de uso de cada um desses.
+      A sobrescrita de métodos seria criar um novo método na classe filha contendo a mesma assinatura e mesmo
+      tipo de retorno do método sobrescrito. Já o sobrecarga, ele no caso seria, o que permite métodos de mesmo
+      nome, mas com suas assinaturas diferentes,.
